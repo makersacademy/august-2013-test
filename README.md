@@ -13,3 +13,5 @@ The aim of the exercise is to create a folder with a country that's not in repo 
 * Add a text file with the name of the capital
 * Push to your fork
 * Send a pull request to the original repo
+
+Double checking
